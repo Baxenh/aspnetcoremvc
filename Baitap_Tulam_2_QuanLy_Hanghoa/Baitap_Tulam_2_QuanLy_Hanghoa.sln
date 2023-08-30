@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34018.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Baitap_Tulam_2_QuanLy_Hanghoa", "Baitap_Tulam_2_QuanLy_Hanghoa\Baitap_Tulam_2_QuanLy_Hanghoa.csproj", "{5BE84B43-7D08-4FCE-A3B3-4E2F5561FAEC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5BE84B43-7D08-4FCE-A3B3-4E2F5561FAEC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5BE84B43-7D08-4FCE-A3B3-4E2F5561FAEC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5BE84B43-7D08-4FCE-A3B3-4E2F5561FAEC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5BE84B43-7D08-4FCE-A3B3-4E2F5561FAEC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CBF5879B-3B4E-439C-BE4B-D0AA40A3D953}
+	EndGlobalSection
+EndGlobal

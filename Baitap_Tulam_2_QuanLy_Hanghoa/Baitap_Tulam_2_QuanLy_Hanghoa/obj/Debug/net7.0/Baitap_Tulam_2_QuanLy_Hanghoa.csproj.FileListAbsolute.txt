@@ -1,0 +1,60 @@
+D:\Learning\GitHub\asp.netcore\Baitap_Tulam_2_QuanLy_Hanghoa\Baitap_Tulam_2_QuanLy_Hanghoa\bin\Debug\net7.0\appsettings.Development.json
+D:\Learning\GitHub\asp.netcore\Baitap_Tulam_2_QuanLy_Hanghoa\Baitap_Tulam_2_QuanLy_Hanghoa\bin\Debug\net7.0\appsettings.json
+D:\Learning\GitHub\asp.netcore\Baitap_Tulam_2_QuanLy_Hanghoa\Baitap_Tulam_2_QuanLy_Hanghoa\bin\Debug\net7.0\Baitap_Tulam_2_QuanLy_Hanghoa.staticwebassets.runtime.json
+D:\Learning\GitHub\asp.netcore\Baitap_Tulam_2_QuanLy_Hanghoa\Baitap_Tulam_2_QuanLy_Hanghoa\bin\Debug\net7.0\Baitap_Tulam_2_QuanLy_Hanghoa.exe
+D:\Learning\GitHub\asp.netcore\Baitap_Tulam_2_QuanLy_Hanghoa\Baitap_Tulam_2_QuanLy_Hanghoa\bin\Debug\net7.0\Baitap_Tulam_2_QuanLy_Hanghoa.deps.json
+D:\Learning\GitHub\asp.netcore\Baitap_Tulam_2_QuanLy_Hanghoa\Baitap_Tulam_2_QuanLy_Hanghoa\bin\Debug\net7.0\Baitap_Tulam_2_QuanLy_Hanghoa.runtimeconfig.json
+D:\Learning\GitHub\asp.netcore\Baitap_Tulam_2_QuanLy_Hanghoa\Baitap_Tulam_2_QuanLy_Hanghoa\bin\Debug\net7.0\Baitap_Tulam_2_QuanLy_Hanghoa.dll
+D:\Learning\GitHub\asp.netcore\Baitap_Tulam_2_QuanLy_Hanghoa\Baitap_Tulam_2_QuanLy_Hanghoa\bin\Debug\net7.0\Baitap_Tulam_2_QuanLy_Hanghoa.pdb
+D:\Learning\GitHub\asp.netcore\Baitap_Tulam_2_QuanLy_Hanghoa\Baitap_Tulam_2_QuanLy_Hanghoa\obj\Debug\net7.0\Baitap_Tulam_2_QuanLy_Hanghoa.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learning\GitHub\asp.netcore\Baitap_Tulam_2_QuanLy_Hanghoa\Baitap_Tulam_2_QuanLy_Hanghoa\obj\Debug\net7.0\Baitap_Tulam_2_QuanLy_Hanghoa.AssemblyInfoInputs.cache
+D:\Learning\GitHub\asp.netcore\Baitap_Tulam_2_QuanLy_Hanghoa\Baitap_Tulam_2_QuanLy_Hanghoa\obj\Debug\net7.0\Baitap_Tulam_2_QuanLy_Hanghoa.AssemblyInfo.cs
+D:\Learning\GitHub\asp.netcore\Baitap_Tulam_2_QuanLy_Hanghoa\Baitap_Tulam_2_QuanLy_Hanghoa\obj\Debug\net7.0\Baitap_Tulam_2_QuanLy_Hanghoa.csproj.CoreCompileInputs.cache
+D:\Learning\GitHub\asp.netcore\Baitap_Tulam_2_QuanLy_Hanghoa\Baitap_Tulam_2_QuanLy_Hanghoa\obj\Debug\net7.0\Baitap_Tulam_2_QuanLy_Hanghoa.MvcApplicationPartsAssemblyInfo.cache
+D:\Learning\GitHub\asp.netcore\Baitap_Tulam_2_QuanLy_Hanghoa\Baitap_Tulam_2_QuanLy_Hanghoa\obj\Debug\net7.0\Baitap_Tulam_2_QuanLy_Hanghoa.RazorAssemblyInfo.cache
+D:\Learning\GitHub\asp.netcore\Baitap_Tulam_2_QuanLy_Hanghoa\Baitap_Tulam_2_QuanLy_Hanghoa\obj\Debug\net7.0\Baitap_Tulam_2_QuanLy_Hanghoa.RazorAssemblyInfo.cs
+D:\Learning\GitHub\asp.netcore\Baitap_Tulam_2_QuanLy_Hanghoa\Baitap_Tulam_2_QuanLy_Hanghoa\obj\Debug\net7.0\staticwebassets\msbuild.Baitap_Tulam_2_QuanLy_Hanghoa.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Learning\GitHub\asp.netcore\Baitap_Tulam_2_QuanLy_Hanghoa\Baitap_Tulam_2_QuanLy_Hanghoa\obj\Debug\net7.0\staticwebassets\msbuild.build.Baitap_Tulam_2_QuanLy_Hanghoa.props
+D:\Learning\GitHub\asp.netcore\Baitap_Tulam_2_QuanLy_Hanghoa\Baitap_Tulam_2_QuanLy_Hanghoa\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Baitap_Tulam_2_QuanLy_Hanghoa.props
+D:\Learning\GitHub\asp.netcore\Baitap_Tulam_2_QuanLy_Hanghoa\Baitap_Tulam_2_QuanLy_Hanghoa\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Baitap_Tulam_2_QuanLy_Hanghoa.props
+D:\Learning\GitHub\asp.netcore\Baitap_Tulam_2_QuanLy_Hanghoa\Baitap_Tulam_2_QuanLy_Hanghoa\obj\Debug\net7.0\staticwebassets.pack.json
+D:\Learning\GitHub\asp.netcore\Baitap_Tulam_2_QuanLy_Hanghoa\Baitap_Tulam_2_QuanLy_Hanghoa\obj\Debug\net7.0\staticwebassets.build.json
+D:\Learning\GitHub\asp.netcore\Baitap_Tulam_2_QuanLy_Hanghoa\Baitap_Tulam_2_QuanLy_Hanghoa\obj\Debug\net7.0\staticwebassets.development.json
+D:\Learning\GitHub\asp.netcore\Baitap_Tulam_2_QuanLy_Hanghoa\Baitap_Tulam_2_QuanLy_Hanghoa\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\Learning\GitHub\asp.netcore\Baitap_Tulam_2_QuanLy_Hanghoa\Baitap_Tulam_2_QuanLy_Hanghoa\obj\Debug\net7.0\scopedcss\bundle\Baitap_Tulam_2_QuanLy_Hanghoa.styles.css
+D:\Learning\GitHub\asp.netcore\Baitap_Tulam_2_QuanLy_Hanghoa\Baitap_Tulam_2_QuanLy_Hanghoa\obj\Debug\net7.0\scopedcss\projectbundle\Baitap_Tulam_2_QuanLy_Hanghoa.bundle.scp.css
+D:\Learning\GitHub\asp.netcore\Baitap_Tulam_2_QuanLy_Hanghoa\Baitap_Tulam_2_QuanLy_Hanghoa\obj\Debug\net7.0\Baitap_Tulam_2_QuanLy_Hanghoa.dll
+D:\Learning\GitHub\asp.netcore\Baitap_Tulam_2_QuanLy_Hanghoa\Baitap_Tulam_2_QuanLy_Hanghoa\obj\Debug\net7.0\refint\Baitap_Tulam_2_QuanLy_Hanghoa.dll
+D:\Learning\GitHub\asp.netcore\Baitap_Tulam_2_QuanLy_Hanghoa\Baitap_Tulam_2_QuanLy_Hanghoa\obj\Debug\net7.0\Baitap_Tulam_2_QuanLy_Hanghoa.pdb
+D:\Learning\GitHub\asp.netcore\Baitap_Tulam_2_QuanLy_Hanghoa\Baitap_Tulam_2_QuanLy_Hanghoa\obj\Debug\net7.0\Baitap_Tulam_2_QuanLy_Hanghoa.genruntimeconfig.cache
+D:\Learning\GitHub\asp.netcore\Baitap_Tulam_2_QuanLy_Hanghoa\Baitap_Tulam_2_QuanLy_Hanghoa\obj\Debug\net7.0\ref\Baitap_Tulam_2_QuanLy_Hanghoa.dll
+D:\Learning\GitHub\asp.netcore mvc\asp.netcore\Baitap_Tulam_2_QuanLy_Hanghoa\Baitap_Tulam_2_QuanLy_Hanghoa\bin\Debug\net7.0\appsettings.Development.json
+D:\Learning\GitHub\asp.netcore mvc\asp.netcore\Baitap_Tulam_2_QuanLy_Hanghoa\Baitap_Tulam_2_QuanLy_Hanghoa\bin\Debug\net7.0\appsettings.json
+D:\Learning\GitHub\asp.netcore mvc\asp.netcore\Baitap_Tulam_2_QuanLy_Hanghoa\Baitap_Tulam_2_QuanLy_Hanghoa\bin\Debug\net7.0\Baitap_Tulam_2_QuanLy_Hanghoa.staticwebassets.runtime.json
+D:\Learning\GitHub\asp.netcore mvc\asp.netcore\Baitap_Tulam_2_QuanLy_Hanghoa\Baitap_Tulam_2_QuanLy_Hanghoa\bin\Debug\net7.0\Baitap_Tulam_2_QuanLy_Hanghoa.exe
+D:\Learning\GitHub\asp.netcore mvc\asp.netcore\Baitap_Tulam_2_QuanLy_Hanghoa\Baitap_Tulam_2_QuanLy_Hanghoa\bin\Debug\net7.0\Baitap_Tulam_2_QuanLy_Hanghoa.deps.json
+D:\Learning\GitHub\asp.netcore mvc\asp.netcore\Baitap_Tulam_2_QuanLy_Hanghoa\Baitap_Tulam_2_QuanLy_Hanghoa\bin\Debug\net7.0\Baitap_Tulam_2_QuanLy_Hanghoa.runtimeconfig.json
+D:\Learning\GitHub\asp.netcore mvc\asp.netcore\Baitap_Tulam_2_QuanLy_Hanghoa\Baitap_Tulam_2_QuanLy_Hanghoa\bin\Debug\net7.0\Baitap_Tulam_2_QuanLy_Hanghoa.dll
+D:\Learning\GitHub\asp.netcore mvc\asp.netcore\Baitap_Tulam_2_QuanLy_Hanghoa\Baitap_Tulam_2_QuanLy_Hanghoa\bin\Debug\net7.0\Baitap_Tulam_2_QuanLy_Hanghoa.pdb
+D:\Learning\GitHub\asp.netcore mvc\asp.netcore\Baitap_Tulam_2_QuanLy_Hanghoa\Baitap_Tulam_2_QuanLy_Hanghoa\obj\Debug\net7.0\Baitap_Tulam_2_QuanLy_Hanghoa.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learning\GitHub\asp.netcore mvc\asp.netcore\Baitap_Tulam_2_QuanLy_Hanghoa\Baitap_Tulam_2_QuanLy_Hanghoa\obj\Debug\net7.0\Baitap_Tulam_2_QuanLy_Hanghoa.AssemblyInfoInputs.cache
+D:\Learning\GitHub\asp.netcore mvc\asp.netcore\Baitap_Tulam_2_QuanLy_Hanghoa\Baitap_Tulam_2_QuanLy_Hanghoa\obj\Debug\net7.0\Baitap_Tulam_2_QuanLy_Hanghoa.AssemblyInfo.cs
+D:\Learning\GitHub\asp.netcore mvc\asp.netcore\Baitap_Tulam_2_QuanLy_Hanghoa\Baitap_Tulam_2_QuanLy_Hanghoa\obj\Debug\net7.0\Baitap_Tulam_2_QuanLy_Hanghoa.csproj.CoreCompileInputs.cache
+D:\Learning\GitHub\asp.netcore mvc\asp.netcore\Baitap_Tulam_2_QuanLy_Hanghoa\Baitap_Tulam_2_QuanLy_Hanghoa\obj\Debug\net7.0\Baitap_Tulam_2_QuanLy_Hanghoa.MvcApplicationPartsAssemblyInfo.cache
+D:\Learning\GitHub\asp.netcore mvc\asp.netcore\Baitap_Tulam_2_QuanLy_Hanghoa\Baitap_Tulam_2_QuanLy_Hanghoa\obj\Debug\net7.0\Baitap_Tulam_2_QuanLy_Hanghoa.RazorAssemblyInfo.cache
+D:\Learning\GitHub\asp.netcore mvc\asp.netcore\Baitap_Tulam_2_QuanLy_Hanghoa\Baitap_Tulam_2_QuanLy_Hanghoa\obj\Debug\net7.0\Baitap_Tulam_2_QuanLy_Hanghoa.RazorAssemblyInfo.cs
+D:\Learning\GitHub\asp.netcore mvc\asp.netcore\Baitap_Tulam_2_QuanLy_Hanghoa\Baitap_Tulam_2_QuanLy_Hanghoa\obj\Debug\net7.0\staticwebassets\msbuild.Baitap_Tulam_2_QuanLy_Hanghoa.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Learning\GitHub\asp.netcore mvc\asp.netcore\Baitap_Tulam_2_QuanLy_Hanghoa\Baitap_Tulam_2_QuanLy_Hanghoa\obj\Debug\net7.0\staticwebassets\msbuild.build.Baitap_Tulam_2_QuanLy_Hanghoa.props
+D:\Learning\GitHub\asp.netcore mvc\asp.netcore\Baitap_Tulam_2_QuanLy_Hanghoa\Baitap_Tulam_2_QuanLy_Hanghoa\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Baitap_Tulam_2_QuanLy_Hanghoa.props
+D:\Learning\GitHub\asp.netcore mvc\asp.netcore\Baitap_Tulam_2_QuanLy_Hanghoa\Baitap_Tulam_2_QuanLy_Hanghoa\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Baitap_Tulam_2_QuanLy_Hanghoa.props
+D:\Learning\GitHub\asp.netcore mvc\asp.netcore\Baitap_Tulam_2_QuanLy_Hanghoa\Baitap_Tulam_2_QuanLy_Hanghoa\obj\Debug\net7.0\staticwebassets.pack.json
+D:\Learning\GitHub\asp.netcore mvc\asp.netcore\Baitap_Tulam_2_QuanLy_Hanghoa\Baitap_Tulam_2_QuanLy_Hanghoa\obj\Debug\net7.0\staticwebassets.build.json
+D:\Learning\GitHub\asp.netcore mvc\asp.netcore\Baitap_Tulam_2_QuanLy_Hanghoa\Baitap_Tulam_2_QuanLy_Hanghoa\obj\Debug\net7.0\staticwebassets.development.json
+D:\Learning\GitHub\asp.netcore mvc\asp.netcore\Baitap_Tulam_2_QuanLy_Hanghoa\Baitap_Tulam_2_QuanLy_Hanghoa\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\Learning\GitHub\asp.netcore mvc\asp.netcore\Baitap_Tulam_2_QuanLy_Hanghoa\Baitap_Tulam_2_QuanLy_Hanghoa\obj\Debug\net7.0\scopedcss\bundle\Baitap_Tulam_2_QuanLy_Hanghoa.styles.css
+D:\Learning\GitHub\asp.netcore mvc\asp.netcore\Baitap_Tulam_2_QuanLy_Hanghoa\Baitap_Tulam_2_QuanLy_Hanghoa\obj\Debug\net7.0\scopedcss\projectbundle\Baitap_Tulam_2_QuanLy_Hanghoa.bundle.scp.css
+D:\Learning\GitHub\asp.netcore mvc\asp.netcore\Baitap_Tulam_2_QuanLy_Hanghoa\Baitap_Tulam_2_QuanLy_Hanghoa\obj\Debug\net7.0\Baitap_Tulam_2_QuanLy_Hanghoa.dll
+D:\Learning\GitHub\asp.netcore mvc\asp.netcore\Baitap_Tulam_2_QuanLy_Hanghoa\Baitap_Tulam_2_QuanLy_Hanghoa\obj\Debug\net7.0\refint\Baitap_Tulam_2_QuanLy_Hanghoa.dll
+D:\Learning\GitHub\asp.netcore mvc\asp.netcore\Baitap_Tulam_2_QuanLy_Hanghoa\Baitap_Tulam_2_QuanLy_Hanghoa\obj\Debug\net7.0\Baitap_Tulam_2_QuanLy_Hanghoa.pdb
+D:\Learning\GitHub\asp.netcore mvc\asp.netcore\Baitap_Tulam_2_QuanLy_Hanghoa\Baitap_Tulam_2_QuanLy_Hanghoa\obj\Debug\net7.0\Baitap_Tulam_2_QuanLy_Hanghoa.genruntimeconfig.cache
+D:\Learning\GitHub\asp.netcore mvc\asp.netcore\Baitap_Tulam_2_QuanLy_Hanghoa\Baitap_Tulam_2_QuanLy_Hanghoa\obj\Debug\net7.0\ref\Baitap_Tulam_2_QuanLy_Hanghoa.dll

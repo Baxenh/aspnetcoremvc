@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Baitap_Tulam_2_QuanLy_Hanghoa.props" />
+</Project>
